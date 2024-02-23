@@ -18,7 +18,7 @@ class Dog
 end
 
 
-'''
+"""
 # create the objects
 roger = Dog.new('pug')
 sue = Dog.new('lab')
@@ -33,4 +33,4 @@ puts sue.get_color
 puts
 puts roger
 puts sue
-'''
+"""
